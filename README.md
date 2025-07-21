@@ -19,11 +19,11 @@
 ## <div align="center">📫 Let's Connect</div>
 
 <p align="center">
-  <a href="mailto:riyazshaik.dev@gmail.com">
+  <a href="mailto:sr308379@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" height="40" width="40" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+  <a href="https://www.linkedin.com/in/shaikriyaz668" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" height="40" width="40" alt="LinkedIn" />
   </a>
 </p>
